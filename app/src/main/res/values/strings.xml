@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ByteDance_HW211017</string>
+    <string name="str_input">input</string>
+    <string name="str_search">search</string>
+    <string name="str_cancel">cancel</string>
+    <string name="str_info">info</string>
+</resources>
